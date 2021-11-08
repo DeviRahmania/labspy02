@@ -11,7 +11,8 @@ untuk menjawab soal diatas disini saya membuat inputan terlebih dahulu
     c = int(input("Masukkan bilangan 3: "))
 
 lalu masukan bilangan sesuai keinginan 
-disini saya memasukan bilangan 1:7 bilangan 2:4 bilangan 3:9
+disini saya memasukan bilangan 1 yaitu 7 bilangan 2 yaitu 4 bilangan 3 yaitu 9
+
 dibawah ini adalah flowchart yang dibuat
 
 ![img](gambar/flowchart.png)
